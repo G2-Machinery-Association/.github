@@ -21,7 +21,7 @@
 1. 所有的開發請務必遵循 **Fork & Pull Request** 流程。
 2. 秉持 G2 的「透明與互信」原則，任何合併請求 (PR) 均須經過團隊 Review 審查後才能生效。
 
-## 🛠️ 分支命名規範 (Branch Naming Rule)
+## 🛠️ 分支命名規範
 
 請依照此格式命名：`Category/Scope/Description`
 
