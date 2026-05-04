@@ -39,7 +39,6 @@
 #### 3. 第三段：Description (具體內容)
 - 用簡單英文說明。例如：`login-page` 或 `api-update`
 
----
 *範例：*
 - `fix/g2/login-bug` (修復總部 Bug，要分享)
 - `feat/my/special-logo` (公司自用 Logo，不分享)
