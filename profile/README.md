@@ -21,6 +21,29 @@
 1. 所有的開發請務必遵循 **Fork & Pull Request** 流程。
 2. 秉持 G2 的「透明與互信」原則，任何合併請求 (PR) 均須經過團隊 Review 審查後才能生效。
 
+## 🛠️ 分支命名規範 (Branch Naming Rule)
+
+請依照此格式命名：`Category/Scope/Description`
+
+#### 1. 第一段：Category (做什麼？)
+- `feat` : 增加新功能
+- `fix`  : 修復 Bug 錯誤
+- `docs` : 修改文件說明
+- `refactor` : 整理程式碼 (功能不變)
+- `chore` : 改設定、換套件等雜事
+
+#### 2. 第二段：Scope (給誰看？)
+- `g2` : **要分享**。準備送回總部的通用更新 (要發送 Pull Request)。
+- `my` : **不分享**。我們公司專用的客製化內容 (**嚴禁發送 PR**)。
+
+#### 3. 第三段：Description (具體內容)
+- 用簡單英文說明。例如：`login-page` 或 `api-update`
+
+---
+*範例：*
+- `fix/g2/login-bug` (修復總部 Bug，要分享)
+- `feat/my/special-logo` (公司自用 Logo，不分享)
+
 ## 🔗 了解更多
 * **G2 官方網站**：[https://www.g2.org.tw/](https://www.g2.org.tw/)
 
