@@ -43,7 +43,7 @@
 - `fix/g2/login-bug` (修復 G2 的 Bug，要分享)
 - `feat/my/special-logo` (公司自用 Logo，不分享)
 
-- ## ⚠️ 核心協作禁令 (Critical Collaboration Rule)
+## ⚠️ 核心協作禁令 (Critical Collaboration Rule)
 
 為了確保各成員公司能順利同步 G2 總部的最新更新，並保護各公司的客製化機密，請所有開發人員嚴格遵守以下分支管理規則：
 
