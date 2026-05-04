@@ -33,14 +33,14 @@
 - `chore` : 改設定、換套件等雜事
 
 #### 2. 第二段：Scope (給誰看？)
-- `g2` : **要分享**。準備送回總部的通用更新 (要發送 Pull Request)。
-- `my` : **不分享**。我們公司專用的客製化內容 (**嚴禁發送 PR**)。
+- `g2` : **要分享**。準備送回 G2 的通用更新 (要發送 Pull Request)。
+- `my` : **不分享**。G2 夥伴公司內部專用的客製化內容 (**嚴禁發送 PR**)。
 
 #### 3. 第三段：Description (具體內容)
 - 用簡單英文說明。例如：`login-page` 或 `api-update`
 
 *範例：*
-- `fix/g2/login-bug` (修復總部 Bug，要分享)
+- `fix/g2/login-bug` (修復 G2 的 Bug，要分享)
 - `feat/my/special-logo` (公司自用 Logo，不分享)
 
 ## 🔗 了解更多
